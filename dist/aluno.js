@@ -1,3 +1,5 @@
+"use strict";
+exports.__esModule = true;
 var Aluno = /** @class */ (function () {
     //nome: string
     function Aluno(nome) {
@@ -9,3 +11,4 @@ var Aluno = /** @class */ (function () {
     };
     return Aluno;
 }());
+exports.Aluno = Aluno;
